@@ -1,4 +1,10 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Python+app+developer.++++++++++)](https://git.io/typing-svg)
+
+<h2 align="center">Hi there 👋, I'm Mayank!</h2>
+
+</a> <a href="https://www.linkedin.com/in/mayank-shandilya1/" target="blank">LinkedIn: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
+
+![Ashen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashen-Chevalier&theme=chartreuse-dark&show_icons=true&count_private=true)
 
 <!--
 **Ashen-Chevalier/Ashen-Chevalier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
