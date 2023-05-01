@@ -2,10 +2,11 @@
 
 <h2 align="center">Hi there 👋, I'm Mayank!</h2>
 
-</a> <a href="https://www.linkedin.com/in/mayank-shandilya1/" target="blank">LinkedIn: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
+</a> <a href="https://www.linkedin.com/in/mayank-shandilya1/" target="blank">LinkedIn: <img align="center" src="https://cdn.simpleicons.org/linkedin/36BCF7FF" alt="Medium" height="30" width="40" /></a>
 
 ![Ashen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashen-Chevalier&theme=chartreuse-dark&show_icons=true&count_private=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ashen-Chevalier&layout=compact)
 <!--
 **Ashen-Chevalier/Ashen-Chevalier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
